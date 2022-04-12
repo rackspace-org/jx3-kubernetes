@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 80
             path: "/hook"
-      host: hook-jx.mydomain.com
+      host: 86fc-106-196-3-232.ngrok.io
